@@ -1,0 +1,36 @@
+.blue {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 32px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #8585FF;
+font-weight: 700;
+text-decoration: none;
+font-style: italic;
+}
+
+.black {
+    font-family: Impact, Charcoal, sans-serif;
+font-size: 22px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: underline solid rgb(68, 68, 68);
+font-style: italic;
+font-variant: normal;
+text-transform: uppercase;
+}
+
+.purple {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 17px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #D31185;
+font-weight: 700;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: none;
+}
